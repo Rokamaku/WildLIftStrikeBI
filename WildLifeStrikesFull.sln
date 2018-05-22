@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "IntegratedWLS", "IntegratedWLS\IntegratedWLS.dtproj", "{BB3BF059-67F6-43F1-935F-5E529B9A256E}"
+EndProject
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "AnalysisWLS", "AnalysisWLS\AnalysisWLS.dwproj", "{DC865589-80C4-40D6-8E23-CDC583A41042}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB3BF059-67F6-43F1-935F-5E529B9A256E}.Development|Default.ActiveCfg = Development
+		{BB3BF059-67F6-43F1-935F-5E529B9A256E}.Development|Default.Build.0 = Development
+		{DC865589-80C4-40D6-8E23-CDC583A41042}.Development|Default.ActiveCfg = Development
+		{DC865589-80C4-40D6-8E23-CDC583A41042}.Development|Default.Build.0 = Development
+		{DC865589-80C4-40D6-8E23-CDC583A41042}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7733AD0-4705-4A64-B0E4-8B9DE6745354}
+	EndGlobalSection
+EndGlobal

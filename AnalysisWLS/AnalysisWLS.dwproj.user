@@ -1,0 +1,39 @@
+<AnalysisServicesUserConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
+  <Configurations>
+    <Configuration>
+      <Name>Development</Name>
+      <Options>
+        <UserIDs>
+          <ConfigurationSetting>
+            <Id>Wild Life Strikes Full</Id>
+            <Name>Wild Life Strikes Full</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAr+7jFoagPUa0XaESPfRhrAAAAAAuAAAAVwBpAGwAZAAgAEwAaQBmAGUAIABTAHQAcgBpAGsAZQBzACAARgB1AGwAbAAAABBmAAAAAQAAIAAAAGme6SD3zOmhwtuKcLYX0DtWVtJerAby8BTo90N5Li71AAAAAA6AAAAAAgAAIAAAAHkCxPf3KamP7XlArh+tZWgXaxMHJ4Ghd3JhLQdBthyLEAAAAGxvPsUMEog/bAPUbZdaeTFAAAAAE2UiqoNL58Ckv8Bn7Y128reZsh2A++LfcKzCl5LJPXdGvLDsD38rq4Pzq6Z9VFtQkBx56/fQuRxxm5k8tMVUbQ==</Value>
+          </ConfigurationSetting>
+          <ConfigurationSetting>
+            <Id>Wild Life Strikes Full 1</Id>
+            <Name>Wild Life Strikes Full 1</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAr+7jFoagPUa0XaESPfRhrAAAAAAyAAAAVwBpAGwAZAAgAEwAaQBmAGUAIABTAHQAcgBpAGsAZQBzACAARgB1AGwAbAAgADEAAAAQZgAAAAEAACAAAAAI9oCe6rKlejWE+Ave72Vpy8R/bA7+8++n9NNN/HP2egAAAAAOgAAAAAIAACAAAAAkma4/ifneJ+zGmnxiR+kBMAw7MbGhbuy27PjCkvj0tRAAAACFwSbbj0A99Bt+iltGhhIJQAAAALD4F3BV9VDwCtEnYoaA5EzLMCpzpnAVz1ZEj08YirB/AhlpDLwwHIlJrrsuE3bw0bxy9QpDeeuoGppcqvCOY3k=</Value>
+          </ConfigurationSetting>
+        </UserIDs>
+        <UserPasswords>
+          <ConfigurationSetting>
+            <Id>Wild Life Strikes Full</Id>
+            <Name>Wild Life Strikes Full</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAr+7jFoagPUa0XaESPfRhrAAAAAAuAAAAVwBpAGwAZAAgAEwAaQBmAGUAIABTAHQAcgBpAGsAZQBzACAARgB1AGwAbAAAABBmAAAAAQAAIAAAABVXSgai1tynomtPtlDgraC0A/KFJ1GRXA5AomYdzl1kAAAAAA6AAAAAAgAAIAAAAJix48k5ieGRVjip9mV58oAUvgou4vJIKN1NnAx4rYcWIAAAAPPtDdKPWiGHsb0vszOk+BDm01tbHgasilAv8jQGIEmaQAAAAIgSR3OIc/rJoDfBgJ7bgU0lCsAFJVtGh8fiWJrXvz4wJYBbbT6ZUfYIMs7dviCSTqCguEYnU6X7AdSJI9MqZVk=</Value>
+          </ConfigurationSetting>
+          <ConfigurationSetting>
+            <Id>Wild Life Strikes Full 1</Id>
+            <Name>Wild Life Strikes Full 1</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAr+7jFoagPUa0XaESPfRhrAAAAAAyAAAAVwBpAGwAZAAgAEwAaQBmAGUAIABTAHQAcgBpAGsAZQBzACAARgB1AGwAbAAgADEAAAAQZgAAAAEAACAAAADOhgIakN9/Qi73N7a71FFp7zCYMTwYGgscMGajG8/StwAAAAAOgAAAAAIAACAAAADeNiYamIQI13w9Qx3RBi9KQ4fg0VjCAVVfB4n2k7D99yAAAABPj60O1i/ckojkjA9YPinWV50MkMKo6FgzkTpIYuXDx0AAAACJDACzmU56oPOB9jt5RC1x3YB63lZMyUTeLMr+7O+9t/6T4ATI0FVVJ/POFqIY3NLQB/LWWfuzyN6Yt5aeVx8F</Value>
+          </ConfigurationSetting>
+        </UserPasswords>
+        <TargetServer>localhost</TargetServer>
+        <TargetDatabase>AnalysisWLS</TargetDatabase>
+        <StartObject>
+          <ObjectId></ObjectId>
+          <ObjectType>Current</ObjectType>
+        </StartObject>
+      </Options>
+    </Configuration>
+  </Configurations>
+</AnalysisServicesUserConfiguration>
