@@ -17,6 +17,9 @@
       <Dimension>
         <ID>FACT</ID>
       </Dimension>
+      <Dimension>
+        <ID>Time</ID>
+      </Dimension>
     </Dimensions>
     <Cubes>
       <Cube>

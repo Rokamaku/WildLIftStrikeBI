@@ -27,6 +27,10 @@
       <Name>FACT.dim</Name>
       <FullPath>FACT.dim</FullPath>
     </ProjectItem>
+    <ProjectItem>
+      <Name>Time.dim</Name>
+      <FullPath>Time.dim</FullPath>
+    </ProjectItem>
   </Dimensions>
   <DataSources>
     <ProjectItem>

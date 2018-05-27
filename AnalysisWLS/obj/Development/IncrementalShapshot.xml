@@ -8,7 +8,7 @@
     <TransactionalDeployment>false</TransactionalDeployment>
     <PartitionDeployment>DeployPartitions</PartitionDeployment>
     <RoleDeployment>DeployRolesRetainMembers</RoleDeployment>
-    <ProcessingOption>DoNotProcess</ProcessingOption>
+    <ProcessingOption>Default</ProcessingOption>
     <OutputScript></OutputScript>
     <ImpactAnalysisFile></ImpactAnalysisFile>
     <ConfigurationSettingsDeployment>Deploy</ConfigurationSettingsDeployment>
@@ -26,7 +26,7 @@
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.DataSourceView</Type>
-        <TimeStamp>N1xprOs76KEIKFklH7tpNWxcNYA=22/05/2018 22:04:1222/05/2018 22:04:12</TimeStamp>
+        <TimeStamp>g9N3PMIImmrUJNOrzLGMb3TQOWU=27/05/2018 16:47:2222/05/2018 22:04:12</TimeStamp>
         <ID>
           <String>Wild Life Strikes Full</String>
         </ID>
@@ -46,8 +46,15 @@
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>/fnHohUGhpVzu4H9TdteeND60+M=27/05/2018 16:51:4827/05/2018 16:50:38</TimeStamp>
+        <ID>
+          <String>Time</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Cube</Type>
-        <TimeStamp>YFCwhfD60EK2sxmCltXe1JRxjYI=22/05/2018 22:05:0622/05/2018 22:04:28HOAgSe28F3Nz4a/voBD96mswmtk=22/05/2018 22:04:2822/05/2018 22:04:28</TimeStamp>
+        <TimeStamp>kYmOXcQaRVu3CjG51irbiUqox+w=27/05/2018 17:56:0522/05/2018 22:04:28HOAgSe28F3Nz4a/voBD96mswmtk=22/05/2018 22:04:2822/05/2018 22:04:28</TimeStamp>
         <ID>
           <String>Wild Life Strikes Full</String>
         </ID>
@@ -55,7 +62,7 @@
     </ObjectSnapshots>
     <DatabaseSnapshot>
       <Type>Microsoft.AnalysisServices.Database</Type>
-      <TimeStamp>iTxpKFYtcgvTBf0dxYM1xMl1v/k=19/05/2018 23:02:2115/05/2018 12:47:50</TimeStamp>
+      <TimeStamp>iTxpKFYtcgvTBf0dxYM1xMl1v/k=26/05/2018 19:30:1815/05/2018 12:47:50</TimeStamp>
       <ID>
         <String>AnalysisWLS</String>
       </ID>
@@ -64,5 +71,5 @@
   </Snapshot>
   <AssemblyLocations />
   <ProcessingComplete>true</ProcessingComplete>
-  <LastDeployed>2018-05-22T15:06:40.583333Z</LastDeployed>
+  <LastDeployed>2018-05-27T10:56:11.06Z</LastDeployed>
 </DeploymentSnapshot>

@@ -1,0 +1,265 @@
+﻿<Dimension xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="efc75945-df37-4dbb-9d05-4a2372244b80" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
+  <ID>Time</ID>
+  <Name>Time</Name>
+  <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+  <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+  <Annotations>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramLayout</Name>
+      <Value>
+        <dds xmlns="">
+          <diagram fontclsid="{0BE35203-8F91-11CE-9DE3-00AA004BB851}" mouseiconclsid="{0BE35204-8F91-11CE-9DE3-00AA004BB851}" defaultlayout="MSDDS.Rectilinear" defaultlineroute="MSDDS.Rectilinear" version="7" nextobject="3" scale="100" pagebreakanchorx="0" pagebreakanchory="0" pagebreaksizex="0" pagebreaksizey="0" scrollleft="-1686" scrolltop="-2659" gridx="150" gridy="150" marginx="5000" marginy="5000" zoom="100" x="7329" y="8467" backcolor="2434342" defaultpersistence="2" PrintPageNumbersMode="3" PrintMarginTop="0" PrintMarginBottom="635" PrintMarginLeft="0" PrintMarginRight="0" marqueeselectionmode="0" mousepointer="0" snaptogrid="0" autotypeannotation="1" showscrollbars="0" viewpagebreaks="0" donotforceconnectorsbehindshapes="1" backpictureclsid="{00000000-0000-0000-0000-000000000000}">
+            <font>
+              <ddsxmlobjectstreamwrapper binary="01a30000900144420100065461686f6d61" />
+            </font>
+            <mouseicon>
+              <ddsxmlobjectstreamwrapper binary="6c74000000000000" />
+            </mouseicon>
+          </diagram>
+          <layoutmanager>
+            <ddsxmlobj />
+          </layoutmanager>
+          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="Time" left="20" top="0" logicalid="2" controlid="1" masterid="0" hint1="0" hint2="0" width="3916" height="3149" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+            <control>
+              <ddsxmlobjectstreaminitwrapper binary="000c00004c0f00004d0c0000" />
+            </control>
+            <layoutobject>
+              <ddsxmlobj>
+                <property name="LogicalObject" value="dbo_Time" vartype="8" />
+              </ddsxmlobj>
+            </layoutobject>
+            <shape groupshapeid="0" groupnode="0" />
+          </ddscontrol>
+        </dds>
+      </Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ShowFriendlyNames</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ShowRelationshipNames</Name>
+      <Value>false</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:UseDiagramDefaultLayout</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortLeft</Name>
+      <Value>-1686</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortTop</Name>
+      <Value>-2659</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramBoundingLeft</Name>
+      <Value>20</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramBoundingTop</Name>
+      <Value>0</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramZoom</Name>
+      <Value>100</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ARDiagramLayout</Name>
+      <Value>
+        <DiagramLayout ZoomPercent="100" ViewPortX="0" ViewPortY="0" xmlns="">
+          <Shapes NodeWidth="147">
+            <Shape Id="TIME OF DAY" Expanded="true">
+              <Attributes>
+                <Attribute Id="TIME OF DAY" />
+              </Attributes>
+              <Position x="20" y="20" />
+            </Shape>
+            <Shape Id="INCIDENT DATE" Expanded="false">
+              <Attributes>
+                <Attribute Id="INCIDENT DATE" />
+              </Attributes>
+              <Position x="208" y="20" />
+            </Shape>
+            <Shape Id="INCIDENT MONTH" Expanded="false">
+              <Attributes>
+                <Attribute Id="INCIDENT MONTH" />
+              </Attributes>
+              <Position x="397" y="20" />
+            </Shape>
+            <Shape Id="INCIDENT QUATER" Expanded="false">
+              <Attributes>
+                <Attribute Id="INCIDENT QUATER" />
+              </Attributes>
+              <Position x="586" y="20" />
+            </Shape>
+            <Shape Id="INCIDENT YEAR" Expanded="false">
+              <Attributes>
+                <Attribute Id="INCIDENT YEAR" />
+              </Attributes>
+              <Position x="775" y="20" />
+            </Shape>
+          </Shapes>
+        </DiagramLayout>
+      </Value>
+    </Annotation>
+  </Annotations>
+  <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+  <State>Unprocessed</State>
+  <Source xsi:type="DataSourceViewBinding" dwd:design-time-name="23900079-633d-4460-92ec-c27293985a44">
+    <DataSourceViewID>Wild Life Strikes Full</DataSourceViewID>
+  </Source>
+  <UnknownMember>Visible</UnknownMember>
+  <ErrorConfiguration dwd:design-time-name="08fb4fd5-e1b0-4a99-899b-0d25c67063ff">
+    <KeyNotFound>ReportAndStop</KeyNotFound>
+    <KeyDuplicate>ReportAndStop</KeyDuplicate>
+    <NullKeyNotAllowed>ReportAndStop</NullKeyNotAllowed>
+  </ErrorConfiguration>
+  <CurrentStorageMode>Molap</CurrentStorageMode>
+  <Attributes>
+    <Attribute dwd:design-time-name="2bb4c72a-1559-4993-90fc-00a05a613ae4">
+      <ID>TIME OF DAY</ID>
+      <Name>TIME OF DAY</Name>
+      <Usage>Key</Usage>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="a9526f8a-0658-4078-81bf-019f055d8de3">
+          <DataType>WChar</DataType>
+          <DataSize>255</DataSize>
+          <NullProcessing>UnknownMember</NullProcessing>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="55b2d641-3090-4302-91de-98d2f7641d11">
+            <TableID>dbo_Time</TableID>
+            <ColumnID>TIME_OF_DAY</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <AttributeRelationships>
+        <AttributeRelationship dwd:design-time-name="2b0a5b63-e831-4fb8-a9a4-7f6b7e571b1b">
+          <AttributeID>INCIDENT DATE</AttributeID>
+          <Name>INCIDENT DATE</Name>
+        </AttributeRelationship>
+      </AttributeRelationships>
+      <OrderBy>Key</OrderBy>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="29141bc3-8119-4a8b-af64-5d4b90a6ec1d">
+      <ID>INCIDENT DATE</ID>
+      <Name>INCIDENT DATE</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="ef4b918e-0e80-42c9-837b-35f3ec54fd2a">
+          <DataType>Date</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="286e2fcf-f87e-46bb-93c6-0643f6fcfe53">
+            <TableID>dbo_Time</TableID>
+            <ColumnID>INCIDENT_DATE</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <AttributeRelationships>
+        <AttributeRelationship dwd:design-time-name="a7ce6901-c2f0-44a8-95c0-d44405c79acf">
+          <AttributeID>INCIDENT MONTH</AttributeID>
+          <Name>INCIDENT MONTH</Name>
+        </AttributeRelationship>
+      </AttributeRelationships>
+      <OrderBy>Key</OrderBy>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="c1e25d71-b141-44f6-9340-f7635c293a0a">
+      <ID>INCIDENT MONTH</ID>
+      <Name>INCIDENT MONTH</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="b1b4e2ed-7d19-4178-850c-2046531ee0c2">
+          <DataType>WChar</DataType>
+          <DataSize>255</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="57ea58bf-4019-408a-9014-6ab2d4112f75">
+            <TableID>dbo_Time</TableID>
+            <ColumnID>INCIDENT_MONTH</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <AttributeRelationships>
+        <AttributeRelationship dwd:design-time-name="b5313dc2-eccb-4c25-9c49-acdd6d4908da">
+          <AttributeID>INCIDENT QUATER</AttributeID>
+          <Name>INCIDENT QUATER</Name>
+        </AttributeRelationship>
+      </AttributeRelationships>
+      <OrderBy>Key</OrderBy>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="ec6f9112-2e02-4fbd-acf0-d87e8ac612ff">
+      <ID>INCIDENT YEAR</ID>
+      <Name>INCIDENT YEAR</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="2faff9d2-69d6-4fe6-a064-39f95a003aaf">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="88f12ecb-c06e-4b32-b2fd-47a40fb229b0">
+            <TableID>dbo_Time</TableID>
+            <ColumnID>INCIDENT_YEAR</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="a4140dea-ece0-4d63-b458-76cbadc83ce0">
+      <ID>INCIDENT QUATER</ID>
+      <Name>INCIDENT QUATER</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="8f66adb5-b605-443f-a2fb-1fd36cc80615">
+          <DataType>WChar</DataType>
+          <DataSize>255</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="734e07fb-cfe1-497a-aba6-242be4dff8b0">
+            <TableID>dbo_Time</TableID>
+            <ColumnID>INCIDENT_QUATER</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <AttributeRelationships>
+        <AttributeRelationship dwd:design-time-name="c4e6c3a3-03eb-4ff3-b5be-b8849da861a6">
+          <AttributeID>INCIDENT YEAR</AttributeID>
+          <Name>INCIDENT YEAR</Name>
+        </AttributeRelationship>
+      </AttributeRelationships>
+      <OrderBy>Key</OrderBy>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+  </Attributes>
+  <Hierarchies>
+    <Hierarchy dwd:design-time-name="a7f229fb-be53-4dd1-97a0-a985323e8d89">
+      <ID>Hierarchy</ID>
+      <Name>Hierarchy</Name>
+      <Levels>
+        <Level dwd:design-time-name="d4630ed9-c183-45e1-b8a3-b05d9b813cc9">
+          <ID>INCIDENT YEAR</ID>
+          <Name>INCIDENT YEAR</Name>
+          <SourceAttributeID>INCIDENT YEAR</SourceAttributeID>
+        </Level>
+        <Level dwd:design-time-name="8b02252c-9ca1-4fc3-8912-8bff0b65ddbe">
+          <ID>INCIDENT QUATER</ID>
+          <Name>INCIDENT QUATER</Name>
+          <SourceAttributeID>INCIDENT QUATER</SourceAttributeID>
+        </Level>
+        <Level dwd:design-time-name="ee9a780c-927b-47b3-a43a-0f9cc8754eb5">
+          <ID>INCIDENT MONTH</ID>
+          <Name>INCIDENT MONTH</Name>
+          <SourceAttributeID>INCIDENT MONTH</SourceAttributeID>
+        </Level>
+        <Level dwd:design-time-name="eeb4bc7e-7bc8-40cc-8eb1-960051a09826">
+          <ID>INCIDENT DATE</ID>
+          <Name>INCIDENT DATE</Name>
+          <SourceAttributeID>INCIDENT DATE</SourceAttributeID>
+        </Level>
+        <Level dwd:design-time-name="23584972-c6d7-490d-a374-c1a98e401d68">
+          <ID>TIME OF DAY</ID>
+          <Name>TIME OF DAY</Name>
+          <SourceAttributeID>TIME OF DAY</SourceAttributeID>
+        </Level>
+      </Levels>
+    </Hierarchy>
+  </Hierarchies>
+  <ddl300:ProcessingState>Unprocessed</ddl300:ProcessingState>
+</Dimension>
