@@ -20,6 +20,42 @@
       <Dimension>
         <ID>Time</ID>
       </Dimension>
+      <Dimension>
+        <ID>Bird Struck</ID>
+      </Dimension>
+      <Dimension>
+        <ID>Engine Type</ID>
+      </Dimension>
+      <Dimension>
+        <ID>Effect Flight</ID>
+      </Dimension>
+      <Dimension>
+        <ID>Species</ID>
+      </Dimension>
+      <Dimension>
+        <ID>Precipitation</ID>
+      </Dimension>
+      <Dimension>
+        <ID>Sky</ID>
+      </Dimension>
+      <Dimension>
+        <ID>Bird Seen</ID>
+      </Dimension>
+      <Dimension>
+        <ID>Aircraft Mass</ID>
+      </Dimension>
+      <Dimension>
+        <ID>Damage</ID>
+      </Dimension>
+      <Dimension>
+        <ID>Operator</ID>
+      </Dimension>
+      <Dimension>
+        <ID>Species Size</ID>
+      </Dimension>
+      <Dimension>
+        <ID>Runway</ID>
+      </Dimension>
     </Dimensions>
     <Cubes>
       <Cube>

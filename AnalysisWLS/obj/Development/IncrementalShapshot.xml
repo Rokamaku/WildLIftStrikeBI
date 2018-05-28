@@ -26,7 +26,7 @@
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.DataSourceView</Type>
-        <TimeStamp>g9N3PMIImmrUJNOrzLGMb3TQOWU=27/05/2018 16:47:2222/05/2018 22:04:12</TimeStamp>
+        <TimeStamp>Orl/z+kwSlgMyC599FKY//u/lkM=28/05/2018 15:09:3522/05/2018 22:04:12</TimeStamp>
         <ID>
           <String>Wild Life Strikes Full</String>
         </ID>
@@ -47,14 +47,98 @@
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>/fnHohUGhpVzu4H9TdteeND60+M=27/05/2018 16:51:4827/05/2018 16:50:38</TimeStamp>
+        <TimeStamp>dEw/8pwI5kJ7CpPh1x0u24Zp6iM=27/05/2018 18:10:5127/05/2018 16:50:38</TimeStamp>
         <ID>
           <String>Time</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>UGifRsElMy4dI4Zon7KB8HtXqOY=28/05/2018 15:09:3528/05/2018 15:09:35</TimeStamp>
+        <ID>
+          <String>Bird Struck</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>N0N8zgiONGQGXQarFEaSdp2CkG4=28/05/2018 15:09:5028/05/2018 15:09:50</TimeStamp>
+        <ID>
+          <String>Engine Type</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>GqFAugYrLr19omh2c0TXKa0w/yw=28/05/2018 15:10:1928/05/2018 15:10:19</TimeStamp>
+        <ID>
+          <String>Effect Flight</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>ofpEKn3gbvk/1VhNfDEgv1fsPM0=28/05/2018 15:10:3228/05/2018 15:10:32</TimeStamp>
+        <ID>
+          <String>Species</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>tCn01+8WkJmo5kB9SEnNLoN4W6s=28/05/2018 15:10:4228/05/2018 15:10:42</TimeStamp>
+        <ID>
+          <String>Precipitation</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>vGOauNmErAcHvrEQs2OozyNUkuY=28/05/2018 15:11:0028/05/2018 15:11:00</TimeStamp>
+        <ID>
+          <String>Sky</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>4ZW0z7bLQWkxK7u/GLP2jRHlW18=28/05/2018 15:11:1628/05/2018 15:11:16</TimeStamp>
+        <ID>
+          <String>Bird Seen</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>KwSxSS5wVUEw8FUq5WErsb8PnAQ=28/05/2018 15:11:3328/05/2018 15:11:33</TimeStamp>
+        <ID>
+          <String>Aircraft Mass</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>1LgKkSUylXhcwKjRoUgYzi0CMxg=28/05/2018 15:11:4728/05/2018 15:11:47</TimeStamp>
+        <ID>
+          <String>Damage</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>qFABEEaj4r1WSN1jC/Q/1LKecDI=28/05/2018 15:12:0628/05/2018 15:12:06</TimeStamp>
+        <ID>
+          <String>Operator</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>HnqrF63XnQL44ibM0ywC4ZZFNl8=28/05/2018 15:12:3728/05/2018 15:12:37</TimeStamp>
+        <ID>
+          <String>Species Size</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>b65KrpssGB8TQpgZ7UrDJtXBYoM=28/05/2018 15:13:1928/05/2018 15:13:19</TimeStamp>
+        <ID>
+          <String>Runway</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Cube</Type>
-        <TimeStamp>kYmOXcQaRVu3CjG51irbiUqox+w=27/05/2018 17:56:0522/05/2018 22:04:28HOAgSe28F3Nz4a/voBD96mswmtk=22/05/2018 22:04:2822/05/2018 22:04:28</TimeStamp>
+        <TimeStamp>9Av35mtH9GKN4pyY5ZldtQti6Hc=28/05/2018 15:15:2622/05/2018 22:04:28HOAgSe28F3Nz4a/voBD96mswmtk=22/05/2018 22:04:2822/05/2018 22:04:28</TimeStamp>
         <ID>
           <String>Wild Life Strikes Full</String>
         </ID>
@@ -71,5 +155,5 @@
   </Snapshot>
   <AssemblyLocations />
   <ProcessingComplete>true</ProcessingComplete>
-  <LastDeployed>2018-05-27T10:56:11.06Z</LastDeployed>
+  <LastDeployed>2018-05-28T08:15:37.046667Z</LastDeployed>
 </DeploymentSnapshot>
